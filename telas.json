@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Cadastro",
+        "title": "Informações do Usuário",
+        "descricao": "Exemplo de formulário",
+        "icone": "1.png",
+        "tela": "PocUsability.view.Cadastro"
+    },
+    {
+        "name": "Lista de Artigos",
+        "title": "TGs da FATEC Sorocaba",
+        "descricao": "Conteúdo do aplicativo",
+        "icone": "2.png",
+        "tela": "PocUsability.view.Lista",
+    },
+    {
+        "name": "Vídeo",
+        "title": "Sobre a Instituição",
+        "descricao": "Exemplo de exibição de mídia",
+        "icone": "3.png",
+        "tela": "PocUsability.view.Video",
+    },
+    {
+        "name": "Mais Informações",
+        "title": "Link para Site Oficial",
+        "descricao": "Opção para conteúdo online completo",
+        "icone": "4.png",
+        "tela": "PocUsability.view.Mais",
+    }
+]
